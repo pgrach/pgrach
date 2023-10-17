@@ -18,7 +18,7 @@
 - [GitHub](https://github.com/username)
 - [LinkedIn](https://www.linkedin.com/in/username)
 - [Twitter](https://twitter.com/username)
-- [e-mail] gpu2003@gmail.com
+- gpu2003@gmail.com
 
 ## Let's Talk About What You Love 🗨️
 - **Crypto**: RWAs, Bitcoin, Mining 💰
