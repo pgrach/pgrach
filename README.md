@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://pgrach.tech/
+My portfolio is here: https://pgrach.tech/
 
 
 <!--
