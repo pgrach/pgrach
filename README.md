@@ -5,7 +5,7 @@
 - 🎓 Recent grad from a Software Development Bootcamp and Xander Tech Academy.
 - 🛠 Skills: HTML, CSS, JavaScript, Python, SQL, PowerBI.
 - 🌱 I’m focused on building meaningful digital products. Love marketplaces. 
-- 🗣️ Languages: Emglish, Russian, German, Luxembourgish, and learning Persian.
+- 🗣️ Languages: English, Russian, German, Luxembourgish, and learning Persian.
 - 🌐 [Portfolio](https://pgrach.tech/)
 
 ## Featured Projects
