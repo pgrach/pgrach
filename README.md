@@ -2,7 +2,7 @@
 
 ## About Me
 - 🚀 Shifted from corporate finance/sales to tech, engaging in crypto mining ventures and advising few others.
-- 🎓 Recent grad from a Software Development Bootcamp and .
+- 🎓 Recent grad from a Software Development Bootcamp and Xander Tech Academy.
 - 🛠 Skills: HTML, CSS, JavaScript, Python, SQL, PowerBI.
 - 🌱 I’m focused on building meaningful digital products. Love marketplaces. 
 - 🗣️ Languages: Emglish, Russian, German, Luxembourgish, and learning Persian.
