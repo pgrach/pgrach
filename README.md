@@ -23,6 +23,7 @@
 ## Let's Talk About What You Love 🗨️
 - **Crypto**: RWAs, Bitcoin, Mining 💰
 - **Aviation**: PPL, Pipistrel, VTOL, ATC ✈️
-- **genAI**: Voice, Image 🎙️🖼️
+- **genAI**: Text, Voice, Image 🎙️🖼️
 - **Marketplaces**: 💼
+- **Regions**: Persia, Central Asia 🌍
 - **Languages**: Also dead ones can be cool like the [Vesuvius Challenge](https://scrollprize.org/) 🗣️
