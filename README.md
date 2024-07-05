@@ -2,22 +2,23 @@
 
 ## About Me
 - 🚀 Shifted from corporate finance/sales to tech, engaging in crypto mining ventures and advising few others.
-- 🎓 Recent grad from a Software Development Bootcamps.
-- 🛠 Skills: HTML, CSS, JavaScript, Python, SQL, PowerBI.
-- 🌱 I’m focused on building meaningful digital products. Love marketplaces. 
+- 🎓 Did a bunch of Software Dev Bootcamps, Hackathons, Hacker House etc etc - learning by doing.
+- 🛠 HTML, CSS, JavaScript, Python, SQL, PowerBI, flutter, AWS.
+- 🌱 Learning by doing. Love marketplaces, b2b. 
 - 🗣️ Languages: English, Russian, German, Luxembourgish, and learning Persian.
 - 🌐 [Portfolio](https://pgrach.tech/)
 
 ## Featured Projects
+- **[Mining Calculator](https://aidala.uk/dashboard)**: A historical (backwards-looking) mining calculator with key features: P&L analysis, Investment Performance Metrics, HODLing Strategy Comparison.
 - **[Storyboard Assistant](https://www.motiohead.com/how-to-create-a-storyboard-for-a-video/)**: genAI tool to streamline the storyboarding process for video creators.
 - **[DLTEO GmbH](https://dlteo.com)**: A platform for GIS and Earth Observation researchers to monetize machine learning models. pre-seed stage deeptech startup accelerated with ESA 🚀 and AWS ☁️
 - **[Krater Tech](https://krater.io)**: A marketplace and O&M solution in the crypto mining sector. 🚀 Techstars company (London'22).
 - **[Cyberian Mine](https://cyberianmine.de)**: A crypto mining service business. 
   
 ## Let's Connect
-- [GitHub](https://github.com/username)
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Twitter](https://twitter.com/username)
+- [GitHub](https://github.com/pgrach)
+- [LinkedIn](https://www.linkedin.com/in/pgrach/)
+- [Twitter](https://twitter.com/pgrache)
 - gpu2003@gmail.com
 
 ## Let's Talk About What You Love 🗨️
