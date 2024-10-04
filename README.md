@@ -2,9 +2,9 @@
 
 ## About Me
 - 🚀 Shifted from corporate finance/sales to tech, engaging in crypto mining ventures and advising few others.
-- 🎓 Did a bunch of Software Dev Bootcamps, Hackathons, Hacker House etc etc - learning by doing.
-- 🛠 HTML, CSS, JavaScript, Python, SQL, PowerBI, flutter, AWS.
-- 🌱 Learning by doing. Love marketplaces, b2b. 
+- 🎓 Did some Bootcamps, Hackathons, Hacker Houses etc etc - learning by doing.
+- 🛠 HTML, CSS, JS, Python, SQL, PowerBI, flutter, AWS.
+- 🌱 Love marketplaces, b2b. 
 - 🗣️ Languages: English, Russian, German, Luxembourgish, and learning Persian.
 - 🌐 [Portfolio](https://pgrach.tech/)
 
