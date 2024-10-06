@@ -1,4 +1,4 @@
-# # Hi there 👋, I'm Pavel Grachev
+# # Hi there 👋, I'm Pavel
 
 ## About Me
 - 🚀 Shifted from corporate finance/sales to tech, engaging in crypto mining ventures and advising few others.
